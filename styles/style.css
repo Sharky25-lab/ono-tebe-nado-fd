@@ -281,6 +281,10 @@ text-underline-position: under;
 text-decoration: none;
 }
 
+.footer_menu-link {
+text-underline-position: under;
+}
+
 .footer_menu-list {
 text-align: center;
 font-size: 18px;
